@@ -4,7 +4,7 @@ int apple,grapes;
 apple=10;
 grapes=20;
 if(apple==grapes){
-system.out.print("both are same rate")
+system.out.print("both are same rate amount")
 }
 else{
 system.out.printt("both are diffrent")
