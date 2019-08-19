@@ -1,0 +1,13 @@
+class prathi{
+public void main(srting arg[]){
+int apple,grapes;
+apple=10;
+grapes=20;
+if(apple==grapes){
+system.out.print("both are same rate")
+}
+else{
+system.out.printt("both are diffrent")
+}
+}
+}
